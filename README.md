@@ -4,7 +4,7 @@ Reference / template for a Kafka producer-consumer mechanism.
 
 See also:
 
-- [kafka-producer-blueprint](https://www.github.com/squidmin/)
+- [kafka-producer-blueprint](https://github.com/squidmin/kafka-api-blueprint)
 
 ## Build the JAR files
 
